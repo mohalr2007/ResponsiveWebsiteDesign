@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines plumbing service requests and scheduling with real-time availability, emergency support, and an operational dashboard for efficient job management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
